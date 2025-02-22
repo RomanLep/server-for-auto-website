@@ -1,0 +1,37 @@
+{
+    "auto": [
+        {
+            "id": "1", 
+            "model": "Mercedes-Benz V-class", 
+            "color": "black", 
+            "availability": "Yes",
+            "year_of_issue": "2024",
+            "mileage": "9 473 km",
+            "gearbox": "automatic",
+            "steering wheel": "left",
+            "body": "minivan"
+        },
+        {
+            "id": "2", 
+            "model": "Mercedes-Benz S-class", 
+            "color": "black", 
+            "availability": "No",
+            "year_of_issue": "2021",
+            "mileage": "33 000 km",
+            "gearbox": "automatic",
+            "steering wheel": "left",
+            "body": "sedan"
+        },
+        {
+            "id": "3", 
+            "model": "BMW M5", 
+            "color": "black", 
+            "availability": "Yes",
+            "year_of_issue": "2018",
+            "mileage": "70 900 km",
+            "gearbox": "automatic",
+            "steering wheel": "left",
+            "body": "sedan"
+        }
+    ]
+}
