@@ -5,33 +5,45 @@
             "model": "Mercedes-Benz V-class", 
             "color": "black", 
             "availability": "Yes",
-            "year_of_issue": "2024",
+            "yearOfIssue": "2024",
             "mileage": "9 473 km",
             "gearbox": "automatic",
-            "steering wheel": "left",
-            "body": "minivan"
+            "steeringWheel": "left",
+            "body": "minivan",
+            "img": "./img/Mercedes-Benz_V-class.png",
+            "price": "$445.00",
+            "seats": "7",
+            "baggage": "7"
         },
         {
             "id": "2", 
             "model": "Mercedes-Benz S-class", 
             "color": "black", 
             "availability": "No",
-            "year_of_issue": "2021",
+            "yearOfIssue": "2021",
             "mileage": "33 000 km",
             "gearbox": "automatic",
-            "steering wheel": "left",
-            "body": "sedan"
+            "steeringWheel": "left",
+            "body": "sedan",
+            "img": "./img/Mercedes-Benz_S-class.png",
+            "price": "$480.00",
+            "seats": "2",
+            "baggage": "2"
         },
         {
             "id": "3", 
             "model": "BMW M5", 
             "color": "black", 
             "availability": "Yes",
-            "year_of_issue": "2018",
+            "yearOfIssue": "2018",
             "mileage": "70 900 km",
             "gearbox": "automatic",
-            "steering wheel": "left",
-            "body": "sedan"
+            "steeringWheel": "left",
+            "body": "sedan",
+            "img": "./img/BMW_M5.png",
+            "price": "$390.00",
+            "seats": "2",
+            "baggage": "2"
         }
     ]
 }
